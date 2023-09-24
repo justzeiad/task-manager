@@ -34,6 +34,10 @@ python main.py
 
 Tasks are automatically saved to a `tasks.json` file when you add or complete them. This means your tasks will be present even when you close the program and reopen it.
 
+## Screenshot
+
+![Task Manager Screenshot](screenshot/task_manager.png)
+
 ## Contributing
 
 If you would like to contribute to this project, please open an issue or create a pull request on GitHub.
