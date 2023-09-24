@@ -38,7 +38,7 @@ def main():
       case "2":
         clear_terminal()
         note.set_complete()
-        time.sleep(4)
+        time.sleep(3)
         
       case "3":
         clear_terminal()
